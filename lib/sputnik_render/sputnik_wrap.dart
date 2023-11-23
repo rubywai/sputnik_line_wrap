@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:spunik_line_wrap/spunik_render/spunik_render_wrap.dart';
+import 'package:spunik_line_wrap/sputnik_render/sputnik_render_wrap.dart';
 
 
 class SputnikWrap extends MultiChildRenderObjectWidget {

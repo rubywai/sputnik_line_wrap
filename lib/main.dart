@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:spunik_line_wrap/spunik_render/sputnik_wrap.dart';
+import 'package:spunik_line_wrap/sputnik_render/sputnik_wrap.dart';
 
 void main() => runApp(const MyApp());
 
